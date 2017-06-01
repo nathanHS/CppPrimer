@@ -3,7 +3,7 @@ Learning CppPrimer Recording
 
 This is my C Plus Plus learning path, I will record the whole exercise in the repository. 
 
-## It's illegal to let a pointer point to a reference / But legal to let declare a reference pointer
+## It's illegal to let a pointer point to a reference / But legal to declare a reference pointer.
 
 <pre><code>
 // wrong example: pointer to reference
